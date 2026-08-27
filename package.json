@@ -1,0 +1,23 @@
+{
+  "name": "react-fitness-tracker-manqoba-123",
+  "version": "1.0.0",
+  "description": "Developing an app to track fitness",
+  "homepage": "https://github.com/Umuzi-skillslab/react-fitness-tracker-Manqoba-123#readme",
+  "bugs": {
+    "url": "https://github.com/Umuzi-skillslab/react-fitness-tracker-Manqoba-123/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-skillslab/react-fitness-tracker-Manqoba-123.git"
+  },
+  "license": "ISC",
+  "author": "manqoba.mlangeni@umuzi.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
